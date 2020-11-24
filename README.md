@@ -1,6 +1,6 @@
-![Image](https://github.com/real-EOkafor/SorinoRPG/blob/main/Untitled%20(3).png)
+![Image](https://github.com/SornioRPG/SornioRPG/blob/main/SornioLogo.png)
 
-SorinoRPG is a discord bot which allows you to playu SorinoRPG inside your discord server, coming out in 2020!
+SorinoRPG is a discord bot which allows you to play SorinoRPG inside your discord server, coming out on New Years Day!
 
 
 # Credits
