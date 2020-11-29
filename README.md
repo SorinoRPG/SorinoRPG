@@ -1,6 +1,6 @@
-![Image](https://github.com/SornioRPG/SornioRPG/blob/main/SornioLogo.png)
+![Image](https://raw.githubusercontent.com/SorinoRPG/SorinoRPG/main/SornioLogo.png)
 
-SorinoRPG is a discord bot which allows you to play SorinoRPG inside your discord server, coming out on New Years Day! Contact Manny#6363 on discord if you would like to be a part of the launch!
+SorinoRPG is a discord bot which allows you to play SorinoRPG inside your discord server, coming out on New Years Day!Contact Manny#6363 on discord or email SorinoRPG@gmail.com for more details or check out our [twitter](https://twitter.com/RpgSorino) if you would like to be a part of the launch! Become a [patron](https://www.patreon.com/sorinorpg)! 
 
 
 # Credits
@@ -8,7 +8,7 @@ SorinoRPG is a discord bot which allows you to play SorinoRPG inside your discor
   **Emmanuel Okafor - CEO/CTO**
   
   **Lucas Rossini - COO**
-  
-  **Ryan Ekamen - CFO**
  
   **Agyemang Offei - CMO**
+ 
+ 
