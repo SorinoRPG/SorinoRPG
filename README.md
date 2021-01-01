@@ -9,7 +9,8 @@ SorinoRPG is a turned based RPG in which you can choose from a variety of creatu
   
   **Lucas Rossini - Head of Operations**
   
-  **Agyemang Offei - Head of Advertising**
+  **Agyemang Offei - Head of Marketing**
+
  
  
 
